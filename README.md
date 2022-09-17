@@ -2,7 +2,7 @@
 
 No hace falta descargar el proyecto para visualizarlo, se puede acceder desde el siguiente link.
 
-[***LINK DEL PROYECTO***](https://boisterous-quokka-9a6b44.netlify.app/)
+[***LINK DEL PROYECTO***](https://quioscoappdeploy-production.up.railway.app/)
 
 ## Tecnologías utilizadas
 
